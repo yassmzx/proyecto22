@@ -18,7 +18,8 @@ public class HelloWorld {
         int numero = 0;
         
    while (numero <= 10){
-    System.out.println("Hola mundo");
+    System.out.println("Hola mundo "+ numero );
+    
     numero++;
 }  
    
